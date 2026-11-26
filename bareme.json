@@ -1,0 +1,26 @@
+{
+  "source": "OFAS, Tables des cotisations AVS/AI/APG, indépendants et personnes sans activité lucrative, doc. 318.117.50, valable dès le 1er janvier 2027",
+  "revenu_minimal": 10300,
+  "cotisation_minimale_annuelle_chf": 541,
+  "revenu_taux_plein": 61500,
+  "classes": [
+    {"classe":1,"revenu_des":10300,"taux_pct":5.371},
+    {"classe":2,"revenu_des":17700,"taux_pct":5.494},
+    {"classe":3,"revenu_des":24000,"taux_pct":5.617},
+    {"classe":4,"revenu_des":26500,"taux_pct":5.741},
+    {"classe":5,"revenu_des":29000,"taux_pct":5.864},
+    {"classe":6,"revenu_des":31500,"taux_pct":5.987},
+    {"classe":7,"revenu_des":34000,"taux_pct":6.235},
+    {"classe":8,"revenu_des":36500,"taux_pct":6.481},
+    {"classe":9,"revenu_des":39000,"taux_pct":6.728},
+    {"classe":10,"revenu_des":41500,"taux_pct":6.976},
+    {"classe":11,"revenu_des":44000,"taux_pct":7.222},
+    {"classe":12,"revenu_des":46500,"taux_pct":7.469},
+    {"classe":13,"revenu_des":49000,"taux_pct":7.840},
+    {"classe":14,"revenu_des":51500,"taux_pct":8.209},
+    {"classe":15,"revenu_des":54000,"taux_pct":8.580},
+    {"classe":16,"revenu_des":56500,"taux_pct":8.951},
+    {"classe":17,"revenu_des":59000,"taux_pct":9.321},
+    {"classe":18,"revenu_des":61500,"taux_pct":10.000}
+  ]
+}
